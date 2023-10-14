@@ -3,6 +3,8 @@
 Stable Diffusion training regularization images. Used during LoRA training to reinforce the underlying model and
 reduce overfitting.
 
+![Splash](1girl/f3e-1.0-7ae10902.png)
+
 |             |                                                  |
 |-------------|--------------------------------------------------|
 | Model       | [f3e - Forge](https://civitai.com/models/160315) |
